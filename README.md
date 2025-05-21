@@ -1,4 +1,4 @@
-# LoopingWrite a program to print the numbers from 10 to 50 using for loop/while loop.
+ # LoopingWrite a program to print the numbers from 10 to 50 using for loop/while loop.
 public class Forloop{
     public static void Forloop(String[] args) {
         for (int i = 10; i <= 50; i++) {
